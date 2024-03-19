@@ -10,5 +10,6 @@
 
 Фронт: React. Представление только отображает данные. Отправляет данные на сервер и получает ответ. Вся логика на контроллере в ASP.NET
 
-![Рабочая версия проекта]([https://github.com/Millton8/4.2.3-workersView-Django/blob/main/screensdjview/genereallist.jpg](http://kpworkers.ru:6010/)http://kpworkers.ru:6010/)
+[Рабочая версия проекта](http://kpworkers.ru:6010/)
+
 
